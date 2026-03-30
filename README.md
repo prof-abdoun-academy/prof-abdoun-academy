@@ -117,11 +117,10 @@ I am especially interested in collaborating on:
 
 ## Optional GitHub Enhancements
 
-> Replace `YOUR_GITHUB_USERNAME` before enabling the following cards.
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prof-abdoun-academy&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-abdoun-academy&layout=compact)
 ```
 
 > Build clearly. Teach generously. Document what matters.

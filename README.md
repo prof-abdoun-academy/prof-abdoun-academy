@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Prof Abdoun | Sigmatrax</h1>
+  <h1>Prof Abdoun Academy | Sigmatrax</h1>
   <p><strong>Educational Creator • Digital Builder • Documentation-Driven Projects</strong></p>
   <p>
     Turning knowledge into clear content, structured resources, and practical digital projects.
